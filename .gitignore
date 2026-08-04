@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Env
+.env
+.env.local
+
+# Editor
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# AI tooling / assistant config (not part of the app itself)
+CLAUDE.md
+AGENTS.md
+.claude/
+.cursor/
+.windsurf/
+.github/copilot-instructions.md
