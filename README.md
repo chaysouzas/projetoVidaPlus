@@ -64,3 +64,5 @@ O login é validado contra um conjunto de credenciais de demonstração (dados m
 | Paciente | paciente@vidaplus.com | 123456 |
 | Profissional | medico@vidaplus.com | 123456 |
 | Administrador | admin@vidaplus.com | 123456 |
+
+[Link de acesso] (https://chaysouzas.github.io/projetoVidaPlus/)
