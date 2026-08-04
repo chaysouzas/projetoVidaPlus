@@ -30,7 +30,6 @@ Sistema de gestão hospitalar com acesso por perfis (paciente, profissional de s
 - [TypeScript 5.7](https://www.typescriptlang.org)
 - [Tailwind CSS v4](https://tailwindcss.com) via `@tailwindcss/vite`
 - [Lucide React](https://lucide.dev) para ícones
-- [Cypress](https://docs.cypress.io) para testes end-to-end
 
 ## Como rodar
 
